@@ -1,0 +1,1 @@
+my_instace_type = "t2.micro"
